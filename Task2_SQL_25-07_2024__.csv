@@ -1,0 +1,78 @@
+﻿stu_id,stu_name,stu_qualification,course_name,staff_id
+124,Amitabh Bachchan,Btech,Data Analytics,1
+125,Shah Rukh Khan,Bcom,Salesforce,2
+126,Aishwarya Rai,Software Engineer,Java Full Stack,3
+127,Ranbir Kapoor,Bsc,Data Science,4
+128,Priyanka Chopra,Btech,Cloud Computing,5
+129,Deepika Padukone,Bcom,Artificial Intelligence,6
+130,Hrithik Roshan,Software Engineer,Data Analytics,7
+131,Katrina Kaif,Bsc,Salesforce,8
+132,Salman Khan,Btech,Java Full Stack,9
+133,Kareena Kapoor,Bcom,Data Science,10
+134,Akshay Kumar,Software Engineer,Cloud Computing,11
+135,Sonam Kapoor,Bsc,Artificial Intelligence,12
+136,Varun Dhawan,Btech,Data Analytics,13
+137,Alia Bhatt,Bcom,Salesforce,14
+138,Sidharth Malhotra,Software Engineer,Java Full Stack,15
+139,Anushka Sharma,Bsc,Data Science,16
+140,Jacqueline Fernandez,Btech,Cloud Computing,17
+141,Shilpa Shetty,Bcom,Artificial Intelligence,18
+142,John Abraham,Software Engineer,Data Analytics,19
+143,Rani Mukerji,Bsc,Salesforce,20
+144,Kangana Ranaut,Btech,Java Full Stack,1
+145,Bipasha Basu,Bcom,Data Science,2
+146,Sushant Singh Rajput,Software Engineer,Cloud Computing,3
+147,Neha Sharma,Bsc,Artificial Intelligence,4
+148,Huma Qureshi,Btech,Data Analytics,5
+149,Esha Gupta,Bcom,Salesforce,6
+150,Chitrangada Singh,Software Engineer,Java Full Stack,7
+151,Ileana D’Cruz,Bsc,Data Science,8
+152,Samantha Ruth Prabhu,Btech,Cloud Computing,9
+153,Kriti Sanon,Bcom,Artificial Intelligence,10
+154,Nargis Fakhri,Software Engineer,Data Analytics,11
+155,Richa Chadha,Bsc,Salesforce,12
+156,Madhuri Dixit,Btech,Java Full Stack,13
+157,Kajal Aggarwal,Bcom,Data Science,14
+158,Sridevi,Software Engineer,Cloud Computing,15
+159,Vidya Balan,Bsc,Artificial Intelligence,16
+160,Sonakshi Sinha,Btech,Data Analytics,17
+161,Hema Malini,Bcom,Salesforce,18
+162,Janhvi Kapoor,Software Engineer,Java Full Stack,19
+163,Shilpa Shetty,Bsc,Data Science,20
+164,Raveena Tandon,Btech,Cloud Computing,1
+165,Aditi Rao Hydari,Bcom,Artificial Intelligence,2
+166,Kalki Koechlin,Software Engineer,Data Analytics,3
+167,Pooja Hegde,Bsc,Salesforce,4
+168,Radhika Apte,Btech,Java Full Stack,5
+169,Taapsee Pannu,Bcom,Data Science,6
+170,Mrunal Thakur,Software Engineer,Cloud Computing,7
+171,Nushrratt Bharuccha,Bsc,Artificial Intelligence,8
+172,Patralekhaa,Btech,Data Analytics,9
+173,Sanya Malhotra,Bcom,Salesforce,10
+174,Radhika Madan,Software Engineer,Java Full Stack,11
+175,Hina Khan,Bsc,Data Science,12
+176,Ananya Panday,Btech,Cloud Computing,13
+177,Kriti Kharbanda,Bcom,Artificial Intelligence,14
+178,Surbhi Chandna,Software Engineer,Data Analytics,15
+179,Sonal Chauhan,Bsc,Salesforce,16
+180,Divyanka Tripathi,Btech,Java Full Stack,17
+181,Kiara Advani,Software Engineer,Java Full Stack,4
+182,Sanya Malhotra,Bsc,Data Science,5
+183,Shamita Shetty,Btech,Cloud Computing,6
+184,Evelyn Sharma,Bcom,Artificial Intelligence,7
+185,Mona Singh,Software Engineer,Data Analytics,8
+186,Nargis Fakhri,Bsc,Salesforce,9
+187,Aditi Rao Hydari,Btech,Java Full Stack,10
+188,Jacqueline Fernandez,Btech,Cloud Computing,17
+189,Shilpa Shetty,Bcom,Artificial Intelligence,18
+190,John Abraham,Software Engineer,Data Analytics,19
+191,Rani Mukerji,Bsc,Salesforce,20
+192,Kangana Ranaut,Btech,Java Full Stack,1
+193,Bipasha Basu,Bcom,Data Science,2
+194,Sushant Singh Rajput,Software Engineer,Cloud Computing,3
+195,Neha Sharma,Bsc,Artificial Intelligence,4
+196,Huma Qureshi,Btech,Data Analytics,5
+197,Esha Gupta,Bcom,Salesforce,6
+198,Chitrangada Singh,Software Engineer,Java Full Stack,7
+199,Ileana DCruz,Bsc,Data Science,8
+200,Katrina Kaif,Bsc,Salesforce,8
